@@ -1,0 +1,2948 @@
+.main-4-0,
+.main-4-0 * {
+  box-sizing: border-box;
+}
+.main-4-0 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  overflow: hidden;
+}
+._1 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 1080px;
+  position: relative;
+}
+.bg-1 {
+  width: 1920px;
+  height: 1084px;
+  position: absolute;
+  left: 0px;
+  top: -4px;
+  object-fit: cover;
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-105 {
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(0, 0, 0, 0.5) 100%
+  );
+  width: 1072px;
+  height: 960px;
+  position: absolute;
+  right: -112px;
+  top: 1072px;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(-1, 1);
+}
+.rectangle-106 {
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(0, 0, 0, 0.5) 100%
+  );
+  width: 1080px;
+  height: 960px;
+  position: absolute;
+  right: -120px;
+  top: 1080px;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+}
+.rectangle-107 {
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(0, 0, 0, 1) 100%
+  );
+  width: 1920px;
+  height: 161px;
+  position: absolute;
+  right: -1920px;
+  top: 161px;
+  transform-origin: 0 0;
+  transform: rotate(180deg) scale(1, 1);
+}
+.image {
+  background: linear-gradient(to left, #f00500, #f00500);
+  border-radius: 290.2px;
+  border-style: solid;
+  border-color: var(--white, #ffffff);
+  border-width: 5.8px;
+  width: 277.96px;
+  height: 277.96px;
+  position: absolute;
+  left: 1817.98px;
+  top: 225px;
+  transform-origin: 0 0;
+  transform: rotate(30deg) scale(1, 1);
+  object-fit: cover;
+}
+.text {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 460px;
+  position: absolute;
+  left: 250px;
+  top: 604px;
+}
+.unomeme-blockchain {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 36px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.better-speed-better-gains-same-delicious-pepe-flavor {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-27 {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-2 {
+  background: var(--white, #ffffff);
+  border-radius: 16px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.icon-24-plus {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: hidden;
+}
+.ellipse-5 {
+  background: var(--blue, #0c91ce);
+  border-radius: 50%;
+  border-style: solid;
+  border-color: var(--blue2, #103a5d);
+  border-width: 2px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
+}
+.instant-bridging-between-eth-and-pepe-chain {
+  color: var(--blue2, #103a5d);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-3 {
+  background: var(--white, #ffffff);
+  border-radius: 16px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.lowest-transaction-fees {
+  color: var(--blue2, #103a5d);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-4 {
+  background: var(--white, #ffffff);
+  border-radius: 16px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.higher-volume-capacity-100-x-faster-than-eth {
+  color: var(--blue2, #103a5d);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-5 {
+  background: var(--white, #ffffff);
+  border-radius: 16px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.dedicated-block-explorer {
+  color: var(--blue2, #103a5d);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: 400;
+  position: relative;
+}
+.title {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 616px;
+  position: absolute;
+  left: 250px;
+  top: 236px;
+}
+.united-nation-of-memes-blockchain {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 80px;
+  line-height: 70px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  -webkit-text-stroke: 4px var(--blue2, #103a5d);
+}
+.united-nation-of-memes-now-all-your-favorite-meme-coins-will-have-their-own-blockchain-with-token-management-unomeme {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 26px;
+  font-weight: 400;
+  position: relative;
+  width: 517px;
+  -webkit-text-stroke: 1px #ffffff;
+}
+.group-68 {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-3 {
+  background: #8e4d01;
+  border-radius: 50%;
+  width: 207px;
+  height: 207px;
+  position: absolute;
+  left: 854px;
+  top: 518px;
+}
+.frame-26 {
+  width: 189.38px;
+  height: 135.54px;
+  position: absolute;
+  left: 863px;
+  top: 565px;
+}
+.union {
+  width: 174.53px;
+  height: 115.12px;
+  position: absolute;
+  left: 6.99px;
+  top: 0.05px;
+  overflow: visible;
+}
+.cryptocurrency-color-usdt {
+  width: 33.42px;
+  height: 33.42px;
+  position: absolute;
+  left: 77.98px;
+  top: 98.41px;
+}
+.group {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.image2 {
+  border-radius: 185.67px;
+  border-style: solid;
+  border-color: var(--yellow, #fdaf18);
+  border-width: 3.71px;
+  width: 33.42px;
+  height: 33.42px;
+  position: absolute;
+  left: 29.71px;
+  top: 85.41px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  object-fit: cover;
+}
+.image-3 {
+  border-radius: 185.67px;
+  border-style: solid;
+  border-color: var(--yellow, #fdaf18);
+  border-width: 3.71px;
+  width: 33.42px;
+  height: 33.42px;
+  position: absolute;
+  left: 3.71px;
+  top: 50.13px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  object-fit: cover;
+}
+.image3 {
+  background: linear-gradient(to left, #f00500, #f00500);
+  border-radius: 185.67px;
+  border-style: solid;
+  border-color: var(--yellow, #fdaf18);
+  border-width: 3.71px;
+  width: 33.42px;
+  height: 33.42px;
+  position: absolute;
+  left: 152.25px;
+  top: 50.13px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  object-fit: cover;
+}
+.image4 {
+  border-radius: 185.67px;
+  border-style: solid;
+  border-color: var(--yellow, #fdaf18);
+  border-width: 3.71px;
+  width: 33.42px;
+  height: 33.42px;
+  position: absolute;
+  left: 142.97px;
+  top: 5.57px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  object-fit: cover;
+}
+.telegram-cloud-photo-size-4-5853842714674705854-y {
+  background: var(--white, #ffffff);
+  border-radius: 185.67px;
+  border-style: solid;
+  border-color: var(--yellow, #fdaf18);
+  border-width: 3.71px;
+  width: 33.42px;
+  height: 33.42px;
+  position: absolute;
+  left: 126.26px;
+  top: 85.41px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.group-67 {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-2 {
+  background: #e81b23;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: var(--yellow, #fdaf18);
+  border-width: 3.71px;
+  width: 33.42px;
+  height: 33.42px;
+  position: absolute;
+  left: 11.14px;
+  top: 5.57px;
+}
+.mask-group {
+  width: 33.42px;
+  height: 33.42px;
+  position: absolute;
+  left: 11.14px;
+  top: 5.57px;
+  overflow: visible;
+}
+.telegram-cloud-photo-size-4-5853842714674705854-y2 {
+  background: linear-gradient(to left, #ffffff, #ffffff);
+  border-radius: 290.2px;
+  width: 32.98px;
+  height: 32.98px;
+  position: absolute;
+  left: 122.87px;
+  top: 90.5px;
+  transform-origin: 0 0;
+  transform: rotate(-15deg) scale(1, 1);
+  object-fit: cover;
+}
+.images-1-2 {
+  width: 162px;
+  height: 97px;
+  position: absolute;
+  left: 859px;
+  top: 801px;
+  object-fit: cover;
+}
+.header {
+  padding: 16px 0px 16px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 66px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1420px;
+  position: absolute;
+  left: 250px;
+  top: 99px;
+}
+.logo {
+  flex-shrink: 0;
+  width: 216px;
+  height: 42px;
+  position: relative;
+  overflow: visible;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.about {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 400;
+  position: relative;
+}
+.layer-2 {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 400;
+  position: relative;
+}
+.pump-pad {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 400;
+  position: relative;
+}
+.fwb {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 400;
+  position: relative;
+}
+.how-to-buy {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 400;
+  position: relative;
+}
+.tokenomics {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 400;
+  position: relative;
+}
+.roadmap {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 400;
+  position: relative;
+}
+.fa-qs {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 400;
+  position: relative;
+}
+.white-paper {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 400;
+  position: relative;
+}
+.paper-staking {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 400;
+  position: relative;
+}
+.button {
+  background: var(--red, #f0474a);
+  border-radius: 12px;
+  padding: 12px 20px 12px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.buy-unomeme {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: 400;
+  position: relative;
+}
+.united-nation-of-memes-1 {
+  width: 1167px;
+  height: 76px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 23px;
+  object-fit: cover;
+}
+.frame-24 {
+  border-radius: 1000px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 120px;
+  height: 120px;
+  position: absolute;
+  left: 772.75px;
+  top: 297px;
+  transform: translate(-54.75px, 0px);
+  overflow: visible;
+}
+.image-1 {
+  width: 273.92px;
+  height: 273.92px;
+  position: absolute;
+  left: 56.96px;
+  top: 69.95px;
+  box-shadow: 0px 22px 26.5px 0px rgba(0, 0, 0, 0.25);
+  transform-origin: 0 0;
+  transform: rotate(30deg) scale(1, 1);
+  object-fit: cover;
+}
+.image-27 {
+  border-radius: 1000px;
+  width: 209.57px;
+  height: 209.52px;
+  position: absolute;
+  left: 1786.23px;
+  top: 747px;
+  box-shadow: 0px 22px 26.5px 0px rgba(0, 0, 0, 0.25);
+  transform-origin: 0 0;
+  transform: rotate(15deg) scale(1, 1);
+  object-fit: cover;
+}
+.telegram-cloud-photo-size-4-5853842714674705854-y3 {
+  background: var(--white, #ffffff);
+  border-radius: 290.2px;
+  border-style: solid;
+  border-color: var(--white, #ffffff);
+  border-width: 5.8px;
+  width: 231.48px;
+  height: 231.48px;
+  position: absolute;
+  left: -70px;
+  top: 674.91px;
+  transform-origin: 0 0;
+  transform: rotate(-15deg) scale(1, 1);
+}
+._2 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 838px;
+  position: relative;
+}
+.img-6566-1 {
+  width: 1920px;
+  height: 1080px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 0px;
+  object-fit: cover;
+}
+._3 {
+  background: var(--red, #f0474a);
+  border-radius: 20px;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 547px;
+  position: absolute;
+  left: 250px;
+  top: 87px;
+}
+.about-pepe-unchained {
+  color: var(--blue2, #103a5d);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 80px;
+  line-height: 70px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.pepe-unchained-the-future-of-meme-coins-a-layer-2-blockchain-built-for-speed-security-low-fees-and-of-course-memes-pepu-token-powers-the-entire-ecosystem-you-re-early-enough-to-witness-a-new-golden-age-of-meme-coins-with-pepe-in-his-rightful-place-as-king-and-the-pepe-unchained-layer-2-his-kingdom {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+._22 {
+  background: var(--blue2, #103a5d);
+  border-radius: 20px;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 547px;
+  position: absolute;
+  left: 250px;
+  top: 529px;
+}
+.layer-2-ecosystem {
+  color: var(--yellow, #fdaf18);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 48px;
+  line-height: 70px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.dex-bridge-block-explorer-staking-launch-pad-developer-grants-and-much-more {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-29 {
+  background: var(--blue, #0c91ce);
+  border-radius: 20px;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  height: 112px;
+  position: absolute;
+  left: 817px;
+  top: 547px;
+}
+.frame-30 {
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.token-audits {
+  color: var(--yellow, #fdaf18);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 26px;
+  line-height: 32px;
+  font-weight: 400;
+  position: relative;
+}
+.icon-24-arrow {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.frame-28 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-33 {
+  flex-shrink: 0;
+  width: 89px;
+  height: 23px;
+  position: relative;
+  object-fit: cover;
+}
+.image-34 {
+  flex-shrink: 0;
+  width: 109px;
+  height: 26px;
+  position: relative;
+  object-fit: cover;
+}
+._12 {
+  background: var(--white, #ffffff);
+  border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 817px;
+  top: 87px;
+}
+.featured-in {
+  color: var(--blue2, #103a5d);
+  text-align: center;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.image-28 {
+  flex-shrink: 0;
+  width: 189px;
+  height: 69px;
+  position: relative;
+  object-fit: cover;
+}
+.image-29 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 46px;
+  position: relative;
+  object-fit: cover;
+}
+.image-30 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 60px;
+  position: relative;
+  object-fit: cover;
+}
+.image-31 {
+  flex-shrink: 0;
+  width: 200px;
+  height: 62.5px;
+  position: relative;
+  object-fit: cover;
+}
+.image-32 {
+  flex-shrink: 0;
+  width: 200px;
+  height: 86.5px;
+  position: relative;
+  object-fit: cover;
+}
+._32 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 838px;
+  position: relative;
+}
+._23 {
+  width: 820px;
+  height: 398px;
+  position: absolute;
+  left: 250px;
+  top: 360px;
+}
+.the-blockchain-ecosystem {
+  color: var(--yellow, #fdaf18);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  -webkit-text-stroke: 4px var(--black, #000000);
+}
+._24 {
+  background: var(--blue2, #103a5d);
+  border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 260px;
+  position: absolute;
+  left: 0px;
+  top: 60px;
+}
+.dex {
+  color: var(--yellow, #fdaf18);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.swap-tokens-on-our-lightning-fast-decentralized-exchange {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+._6 {
+  background: var(--blue, #0c91ce);
+  border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 260px;
+  position: absolute;
+  left: 0px;
+  top: 208px;
+}
+.staking {
+  color: var(--yellow, #fdaf18);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.put-your-tokens-to-work-and-grow-your-assets-through-staking {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-31 {
+  background: var(--red, #f0474a);
+  border-radius: 20px;
+  border-style: solid;
+  border-color: var(--black, #000000);
+  border-width: 4px;
+  padding: 12px 20px 12px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 820px;
+  position: absolute;
+  left: 0px;
+  top: 350px;
+}
+.he-built-his-own-chain-pepe-unchained-a-state-of-the-art-layer-2-ecosystem {
+  color: var(--yellow, #fdaf18);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+}
+._4 {
+  background: var(--blue, #0c91ce);
+  border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 260px;
+  position: absolute;
+  left: 280px;
+  top: 60px;
+}
+.bridge {
+  color: var(--yellow, #fdaf18);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.move-between-chains-with-pepe-s-secure-bridge-solution {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+._7 {
+  background: var(--white, #ffffff);
+  border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 260px;
+  position: absolute;
+  left: 280px;
+  top: 208px;
+}
+.dev-grant {
+  color: var(--yellow, #fdaf18);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.join-the-revolution-sign-up-to-build-on-pepe-unchained {
+  color: var(--blue2, #103a5d);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+._8 {
+  background: var(--yellow, #fdaf18);
+  border-radius: 20px;
+  border-style: dashed;
+  border-color: #000000;
+  border-width: 4px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 260px;
+  position: absolute;
+  left: 560px;
+  top: 208px;
+}
+.more-to-come {
+  color: var(--blue2, #103a5d);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.new-features-launching-soon-stay-tuned-and-be-part-of-the-journey {
+  color: var(--blue2, #103a5d);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+._5 {
+  background: var(--blue2, #103a5d);
+  border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 260px;
+  position: absolute;
+  left: 560px;
+  top: 60px;
+}
+.block-explorer {
+  color: var(--yellow, #fdaf18);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.follow-transactions-and-verify-everything-with-our-block-explorer {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+._13 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 633px;
+  position: absolute;
+  left: 250px;
+  top: 80px;
+}
+.pepe-unchained {
+  color: var(--blue2, #103a5d);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 40px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.layer-22 {
+  color: var(--yellow, #fdaf18);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 80px;
+  line-height: 70px;
+  font-weight: 400;
+  position: relative;
+  -webkit-text-stroke: 4px var(--black, #000000);
+}
+.your-gateway-to-pepe-s-decentralized-world-explore-trading-bridging-staking-and-more-with-ease-join-the-community-to-stay-up-to-date-on-all-new-features {
+  color: var(--black, #000000);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+._42 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 838px;
+  position: relative;
+}
+._43 {
+  background: var(--white, #ffffff);
+  border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 208px;
+  position: absolute;
+  left: 830px;
+  top: 629px;
+}
+.wen-launch {
+  color: var(--black, #000000);
+  text-align: center;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.button2 {
+  background: var(--red, #f0474a);
+  border-radius: 12px;
+  padding: 12px 20px 12px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+._33 {
+  background: var(--yellow, #fdaf18);
+  border-radius: 20px;
+  border-style: solid;
+  border-color: var(--black, #000000);
+  border-width: 4px;
+  padding: 12px 20px 12px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 250px;
+  top: 629px;
+}
+.he-then-created-a-launch-pad-where-memes-are-born {
+  color: var(--blue2, #103a5d);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+}
+._25 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 788px;
+  position: absolute;
+  left: 250px;
+  top: 268px;
+}
+._26 {
+  background: var(--blue2, #103a5d);
+  border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-32 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.two-click-launch {
+  color: var(--yellow, #fdaf18);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.icon-24-arrow2 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.got-an-idea-for-a-meme-coin-within-two-clicks-you-can-launch-your-own-without-any-coding-knowledge {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+._34 {
+  background: var(--white, #ffffff);
+  border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.anti-rug-security {
+  color: var(--blue, #0c91ce);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.icon-24-arrow3 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+._44 {
+  background: var(--blue2, #103a5d);
+  border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.pump-for-profit {
+  color: var(--yellow, #fdaf18);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.icon-24-arrow4 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+._52 {
+  background: var(--blue, #0c91ce);
+  border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.pump-fun-but-on-eth {
+  color: var(--yellow, #fdaf18);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.icon-24-arrow5 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+._14 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 658px;
+  position: absolute;
+  left: 250px;
+  top: 80px;
+}
+.pepe-s-pump-pad {
+  color: var(--red, #f0474a);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 80px;
+  line-height: 70px;
+  font-weight: 400;
+  position: relative;
+  -webkit-text-stroke: 4px var(--black, #000000);
+}
+.the-all-new-meme-coin-launch-pad-that-lets-you-launch-your-own-meme-coins-in-just-a-few-clicks-right-on-pepe-unchained-l-2-don-t-let-your-memes-be-dreams {
+  color: var(--black, #000000);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+._53 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 838px;
+  position: relative;
+}
+.button3 {
+  background: var(--blue2, #103a5d);
+  border-radius: 12px;
+  border-style: solid;
+  border-color: var(--yellow, #fdaf18);
+  border-width: 4px;
+  padding: 12px 20px 12px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 168px;
+  position: absolute;
+  left: 270px;
+  top: 729px;
+}
+._35 {
+  position: absolute;
+  inset: 0;
+}
+.here-s-how-it-works {
+  color: var(--blue2, #103a5d);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 250px;
+  top: 541px;
+}
+._9 {
+  background: var(--red, #f0474a);
+  border-radius: 20px;
+  border-style: dashed;
+  border-color: #000000;
+  border-width: 4px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-end;
+  width: 740px;
+  height: 81px;
+  position: absolute;
+  left: 269px;
+  top: 620px;
+}
+.applications-are-now-open {
+  color: var(--yellow, #fdaf18);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-35 {
+  display: flex;
+  flex-direction: row;
+  gap: 6px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 250px;
+  top: 597px;
+}
+.frame-312 {
+  background: var(--yellow, #fdaf18);
+  border-radius: 20px;
+  border-style: solid;
+  border-color: var(--black, #000000);
+  border-width: 4px;
+  padding: 12px 20px 12px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.build {
+  color: var(--blue2, #103a5d);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.icomoon-free-arrow-right {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.frame-322 {
+  background: var(--yellow, #fdaf18);
+  border-radius: 20px;
+  border-style: solid;
+  border-color: var(--black, #000000);
+  border-width: 4px;
+  padding: 12px 20px 12px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.submit-your-grant-application {
+  color: var(--blue2, #103a5d);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.icomoon-free-arrow-right2 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.frame-33 {
+  background: var(--yellow, #fdaf18);
+  border-radius: 20px;
+  border-style: solid;
+  border-color: var(--black, #000000);
+  border-width: 4px;
+  padding: 12px 20px 12px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.pepe-council-votes {
+  color: var(--blue2, #103a5d);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.icomoon-free-arrow-right3 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.frame-34 {
+  background: var(--yellow, #fdaf18);
+  border-radius: 20px;
+  border-style: solid;
+  border-color: var(--black, #000000);
+  border-width: 4px;
+  padding: 12px 20px 12px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.div {
+  color: var(--blue2, #103a5d);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+}
+._27 {
+  position: absolute;
+  inset: 0;
+}
+._28 {
+  background: var(--blue2, #103a5d);
+  border-radius: 20px;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 826px;
+  position: absolute;
+  left: 250px;
+  top: 227px;
+}
+.are-you-a-blockchain-builder-fren {
+  color: var(--yellow, #fdaf18);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 42px;
+  line-height: 44px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.do-you-love-pepe-do-you-want-to-receive-grants-for-building-on-pepe-s-new-l-2-blockchain-lucky-you-we-re-proud-to-announce-the-launch-of-the-pepe-frens-with-benefits-collective-here-blockchain-developers-can-build-upon-the-groundbreaking-pepe-unchained-l-2-and-be-rewarded-for-their-work-everyone-wins {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+._82 {
+  background: var(--white, #ffffff);
+  border-radius: 20px;
+  border-style: dashed;
+  border-color: #000000;
+  border-width: 4px;
+  padding: 16px 20px 16px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 636.59px;
+  top: 175px;
+  transform-origin: 0 0;
+  transform: rotate(4.404deg) scale(1, 1);
+}
+.can-devs-do-something {
+  color: var(--red, #f0474a);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+}
+._15 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 658px;
+  position: absolute;
+  left: 250px;
+  top: 59px;
+}
+.pepe-frens-with-benefits {
+  color: var(--blue2, #103a5d);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 80px;
+  line-height: 70px;
+  font-weight: 400;
+  position: relative;
+  width: 689px;
+  -webkit-text-stroke: 4px var(--yellow, #fdaf18);
+}
+._62 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 838px;
+  position: relative;
+}
+._36 {
+  background: var(--red, #f0474a);
+  border-radius: 20px;
+  border-style: dashed;
+  border-color: #000000;
+  border-width: 4px;
+  padding: 16px 20px 16px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 318px;
+  position: absolute;
+  left: 734px;
+  top: 641px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.this-allowed-pepe-to-break-his-chains {
+  color: var(--yellow, #fdaf18);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+._29 {
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 464px;
+  position: absolute;
+  left: 250px;
+  top: 237px;
+}
+._210 {
+  background: var(--white, #ffffff);
+  border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+._16 {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+._17 {
+  color: var(--yellow, #fdaf18);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+  width: 20px;
+}
+.create-your-wallet {
+  color: var(--blue2, #103a5d);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.icon-24-arrow6 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.if-you-already-have-a-compatible-wallet-go-to-step-2-if-not-meta-mask-works-on-desktop-on-mobile-we-recommend-best-wallet-simply-download-the-app-and-click-on-upcoming-tokens-to-see-pepu {
+  color: var(--blue2, #103a5d);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.if-you-already-have-a-compatible-wallet-go-to-step-2-if-not-meta-mask-works-on-desktop-on-mobile-we-recommend-best-wallet-simply-download-the-app-and-click-on-upcoming-tokens-to-see-pepu-span {
+  color: var(--blue2, #103a5d);
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.if-you-already-have-a-compatible-wallet-go-to-step-2-if-not-meta-mask-works-on-desktop-on-mobile-we-recommend-best-wallet-simply-download-the-app-and-click-on-upcoming-tokens-to-see-pepu-span2 {
+  color: var(--blue2, #103a5d);
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.if-you-already-have-a-compatible-wallet-go-to-step-2-if-not-meta-mask-works-on-desktop-on-mobile-we-recommend-best-wallet-simply-download-the-app-and-click-on-upcoming-tokens-to-see-pepu-span3 {
+  color: var(--blue2, #103a5d);
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+._37 {
+  background: var(--blue, #0c91ce);
+  border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+._211 {
+  color: var(--yellow, #fdaf18);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+  width: 20px;
+}
+.load-wallet-with-crypto {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.icon-24-arrow7 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.paying-by-card-go-to-step-3-if-paying-by-crypto-load-your-fave-crypto-onto-your-wallet-eth-usdt-and-bnb-are-accepted {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+._38 {
+  color: var(--yellow, #fdaf18);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+  width: 20px;
+}
+.buy-and-stake-pepu {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.icon-24-arrow8 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.want-moar-gainzzzz-connect-your-wallet-to-the-website-choose-a-payment-method-choose-the-amount-of-pepu-you-want-to-buy-then-buy-or-buy-and-stake-for-max-gainz {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+._18 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 797px;
+  position: absolute;
+  left: 250px;
+  top: 117px;
+}
+.how-to-buy-pepu {
+  color: var(--yellow, #fdaf18);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 80px;
+  line-height: 70px;
+  font-weight: 400;
+  position: relative;
+  -webkit-text-stroke: 4px var(--blue2, #103a5d);
+}
+._72 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 838px;
+  position: relative;
+}
+.pepe-unchained-tokenomics {
+  color: var(--red, #f0474a);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 80px;
+  line-height: 70px;
+  font-weight: 400;
+  position: relative;
+  -webkit-text-stroke: 4px var(--black, #000000);
+}
+._212 {
+  width: 820px;
+  height: 438px;
+  position: absolute;
+  left: 250px;
+  top: 274px;
+}
+._213 {
+  background: var(--blue2, #103a5d);
+  border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 260px;
+  position: absolute;
+  left: 0px;
+  top: 100px;
+}
+.project-development-47-5 {
+  color: var(--yellow, #fdaf18);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.takes-an-army-to-create-and-run-a-chain-this-makes-sure-it-runs-smoothly {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-313 {
+  background: var(--red, #f0474a);
+  border-radius: 20px;
+  border-style: solid;
+  border-color: var(--black, #000000);
+  border-width: 4px;
+  padding: 12px 20px 12px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 0px;
+  top: 450px;
+}
+.total-token-amount-8-000-000-000 {
+  color: var(--yellow, #fdaf18);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+}
+._45 {
+  background: var(--blue, #0c91ce);
+  border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 260px;
+  height: 169px;
+  position: absolute;
+  left: 280px;
+  top: 100px;
+}
+.marketing-10 {
+  color: var(--yellow, #fdaf18);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.ser-pepe-needs-no-marketing-but-he-s-gonna-do-it-anyway-bigtime {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-36 {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 820px;
+  position: absolute;
+  left: 0px;
+  top: 289px;
+}
+._63 {
+  background: var(--blue, #0c91ce);
+  border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.liquidity-7-5 {
+  color: var(--yellow, #fdaf18);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.fat-liquidity-pools-for-decentralized-exchanges-ape-in-freely {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+._73 {
+  background: var(--white, #ffffff);
+  border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.chain-inventory-5 {
+  color: var(--yellow, #fdaf18);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.an-allocation-for-the-pepu-layer-2-chain {
+  color: var(--blue2, #103a5d);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+._54 {
+  background: var(--blue2, #103a5d);
+  border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 260px;
+  position: absolute;
+  left: 560px;
+  top: 100px;
+}
+.staking-rewards-30 {
+  color: var(--yellow, #fdaf18);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.since-rewards-are-doubled-on-layer-2-a-fat-stack-is-for-staking-rewards {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.the-engine-that-makes-the-pepu-machine-run {
+  color: var(--yellow, #fdaf18);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  -webkit-text-stroke: 4px var(--black, #000000);
+}
+.read-pepu-whitepaper {
+  color: var(--blue2, #103a5d);
+  text-align: right;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 837px;
+  top: 736px;
+}
+._83 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 838px;
+  position: relative;
+}
+._46 {
+  background: var(--blue2, #103a5d);
+  border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 388px;
+  position: absolute;
+  left: 250px;
+  top: 301px;
+}
+.step-1-make-pepe-great-again {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.the-time-has-come-for-pepe-to-take-a-giant-leap-into-his-ultra-based-future-by-inseminating-the-world-with-l-2-technology-pepe-unchained-becomes-an-absolute-giga-brain-he-s-now-ready-to-release-his-rewards {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+._214 {
+  background: var(--white, #ffffff);
+  border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 388px;
+  position: absolute;
+  left: 250px;
+  top: 494px;
+}
+.step-2-coin-eruption {
+  color: var(--blue2, #103a5d);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.with-a-burning-desire-in-his-loins-pepe-unchained-erupts-during-presale-offering-double-the-staking-rewards-this-is-an-explosion-of-pepe-juice-all-over-the-blockchain {
+  color: var(--blue2, #103a5d);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+._39 {
+  background: var(--blue, #0c91ce);
+  border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 240px;
+  height: 202px;
+  position: absolute;
+  left: 658px;
+  top: 301px;
+}
+.step-3-pepe-layer-2-launch {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.pepe-unchained-s-l-2-blockchain-launches-at-the-end-of-presale-creating-a-shockwave-through-the-meme-coin-world {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.pepe-unchained-roadmap {
+  color: var(--yellow, #fdaf18);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 80px;
+  line-height: 70px;
+  font-weight: 400;
+  position: relative;
+  width: 782px;
+  -webkit-text-stroke: 4px var(--blue2, #103a5d);
+}
+._92 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 838px;
+  position: relative;
+}
+._215 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 788px;
+  position: absolute;
+  left: 250px;
+  top: 239px;
+}
+.what-is-pepe-unchained {
+  color: var(--yellow, #fdaf18);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.icon-24-arrow9 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.pepe-unchained-or-pepu-is-a-better-version-of-the-original-pepe-it-is-not-only-a-token-but-a-meme-coin-ecosystem-built-for-instant-and-low-fee-bridging-between-eth-and-pepe-chain-lowest-transaction-fees-instant-transactions-higher-volume-capacity-100-x-faster-than-eth-dedicated-block-explorer-to-see-all-transactions-on-pepe-unchained-layer-2 {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.pepe-unchained-or-pepu-is-a-better-version-of-the-original-pepe-it-is-not-only-a-token-but-a-meme-coin-ecosystem-built-for-instant-and-low-fee-bridging-between-eth-and-pepe-chain-lowest-transaction-fees-instant-transactions-higher-volume-capacity-100-x-faster-than-eth-dedicated-block-explorer-to-see-all-transactions-on-pepe-unchained-layer-2-span {
+  color: var(--white, #ffffff);
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.pepe-unchained-or-pepu-is-a-better-version-of-the-original-pepe-it-is-not-only-a-token-but-a-meme-coin-ecosystem-built-for-instant-and-low-fee-bridging-between-eth-and-pepe-chain-lowest-transaction-fees-instant-transactions-higher-volume-capacity-100-x-faster-than-eth-dedicated-block-explorer-to-see-all-transactions-on-pepe-unchained-layer-2-span2 {
+  color: var(--white, #ffffff);
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.when-can-i-claim-my-tokens {
+  color: var(--yellow, #fdaf18);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.icon-24-arrow10 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.what-is-layer-2-why-is-it-better {
+  color: var(--blue, #0c91ce);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.icon-24-arrow11 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.when-will-pepe-unchained-l-2-be-released {
+  color: var(--yellow, #fdaf18);
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.icon-24-arrow12 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+._2024-pepe-unchained-all-rights-reserved {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 270px;
+  top: 775px;
+}
+.presale {
+  flex-shrink: 0;
+  width: 578px;
+  height: 965px;
+  position: absolute;
+  left: 1093px;
+  top: 0px;
+}
+.bg {
+  border-radius: 0px;
+  width: 578px;
+  height: 729px;
+  position: absolute;
+  left: 0px;
+  top: 236px;
+  overflow: visible;
+}
+.presale-ending-in {
+  color: #ffffff;
+  text-align: center;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 36px;
+  line-height: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 185px);
+  top: 276px;
+}
+.frame-14 {
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 518px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 332px;
+}
+.frame-10 {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 20px 40px 20px 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  position: relative;
+}
+.days {
+  color: var(--gray, #9e9e9e);
+  text-align: center;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 400;
+  position: relative;
+}
+._162 {
+  color: #103a5d;
+  text-align: center;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 36px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-11 {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 20px 40px 20px 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  position: relative;
+}
+.hours {
+  color: var(--gray, #9e9e9e);
+  text-align: center;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 400;
+  position: relative;
+}
+._122 {
+  color: #103a5d;
+  text-align: center;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 36px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-12 {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 20px 40px 20px 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  position: relative;
+}
+.minutes {
+  color: var(--gray, #9e9e9e);
+  text-align: center;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 400;
+  position: relative;
+}
+._342 {
+  color: #103a5d;
+  text-align: center;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 36px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-13 {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 20px 40px 20px 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  position: relative;
+}
+.seconds {
+  color: var(--gray, #9e9e9e);
+  text-align: center;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 400;
+  position: relative;
+}
+._07 {
+  color: #103a5d;
+  text-align: center;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 36px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+}
+.last-chance-to-buy-before-major-exchange-listings {
+  color: #ffffff;
+  text-align: center;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 454px;
+}
+.frame-15 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+  justify-content: center;
+  width: 527px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 517px;
+}
+.raised-53-197-148-14 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-18 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-16 {
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  position: relative;
+}
+.your-purchased-unomeme-0 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 400;
+  position: relative;
+}
+.icon-24 {
+  border-radius: 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.frame-17 {
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  position: relative;
+}
+.your-stakeable-unomeme-0 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 400;
+  position: relative;
+}
+.icon-242 {
+  border-radius: 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+._1-unomeme-0-01295 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 616px;
+}
+.rectangle-3 {
+  background: #ffffff;
+  width: 518px;
+  height: 1px;
+  position: absolute;
+  left: 30px;
+  top: 496px;
+}
+.rectangle-4 {
+  background: #ffffff;
+  width: 518px;
+  height: 1px;
+  position: absolute;
+  left: 30px;
+  top: 595px;
+}
+.frame-19 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  width: 518px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 650px;
+}
+.button4 {
+  background: #103a5d;
+  border-radius: 12px 0px 0px 12px;
+  padding: 12px 20px 12px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  position: relative;
+}
+.cryptocurrency-color-eth {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: hidden;
+}
+.group2 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.buy-unomeme2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 400;
+  position: relative;
+}
+.button5 {
+  margin: 0 0 0 -2px;
+  border-style: solid;
+  border-color: #103a5d;
+  border-width: 2px;
+  padding: 12px 20px 12px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  position: relative;
+}
+.cryptocurrency-color-usdt2 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.group3 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.button6 {
+  margin: 0 0 0 -2px;
+  border-radius: 0px 12px 12px 0px;
+  border-style: solid;
+  border-color: #103a5d;
+  border-width: 2px;
+  padding: 12px 20px 12px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  position: relative;
+}
+.wallet {
+  padding: 7px 0px 7px 0px;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-102 {
+  background: #103a5d;
+  border-radius: 2px;
+  width: 20px;
+  height: 14px;
+  position: absolute;
+  left: 2px;
+  top: 5px;
+}
+.rectangle-103 {
+  background: #ffffff;
+  border-radius: 1px;
+  width: 18px;
+  height: 3px;
+  position: absolute;
+  left: 3px;
+  top: 8px;
+}
+.frame-22 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 518px;
+  position: absolute;
+  left: 30px;
+  top: 712px;
+}
+.input {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 12px 20px 12px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex: 1;
+  height: 50px;
+  position: relative;
+}
+.buy-unomeme3 {
+  color: var(--gray, #9e9e9e);
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.group4 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.unomeme {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.button7 {
+  background: var(--red, #f0474a);
+  border-radius: 12px;
+  border-style: solid;
+  border-color: var(--black, #000000);
+  border-width: 4px;
+  padding: 12px 20px 12px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 518px;
+  position: absolute;
+  left: 30px;
+  top: 782px;
+}
+.buy-unomeme4 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PermanentMarker-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-23 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 377px;
+  top: 862px;
+}
+.switch-to-bnb {
+  color: #ffffff;
+  text-align: left;
+  font-family: "ShadowsIntoLightTwo-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 400;
+  position: relative;
+}
+.switch {
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 100px;
+  flex-shrink: 0;
+  width: 32px;
+  height: 20px;
+  position: relative;
+  overflow: hidden;
+}
+._19 {
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  left: 2px;
+  top: 2px;
+  overflow: hidden;
+}
+.group5 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
